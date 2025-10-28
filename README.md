@@ -1,10 +1,15 @@
 # 🧭 AI Governance & Ethical Risk Framework – MSc Ethics Project (QMUL)
 
 **Project Title:** AI Governance and Ethical Risk Analysis
+
 **Module:** ECS7025P – Ethics, Regulation and Law in Advanced Digital Information Processing and Decision Making
+
 **Institution:** Queen Mary University of London
+
 **Author:** Mohammad Asghar (Student ID: 160546576)
+
 **Submission Date:** 8 July 2024
+
 **Result:** 🎓 Distinction (Obtained)
 
 ---
